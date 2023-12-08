@@ -1,0 +1,41 @@
+.backc {
+    
+        background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;
+        
+    
+}
+
+.letters {
+    color: black;
+}
+
+#photo {
+    height: 120px;
+    border: black solid 5px;
+    border-radius: 60%;
+}
+
+.nav {
+    background-color: black;
+    
+}
+
+.butsize {
+    width: 100px;
+}
+
+
+.footcol {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    padding: 5px;
+    
+    
+    
+}
+
+
